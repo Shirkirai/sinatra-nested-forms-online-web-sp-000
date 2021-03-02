@@ -40,5 +40,5 @@ pry(#<FormsLab::App>)> @ships =>
   #    binding.pry
 
       erb :show
-  end
+    end
 end
